@@ -78,7 +78,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(images/uncheck.png);
+    background-image: url(uncheck.png);
     background-size: cover;
     background-position: center;
     top: 10px;
@@ -110,5 +110,6 @@ ul li span {
 ul li span:hover {
     background: #edeef0;
 }
+
 
 
